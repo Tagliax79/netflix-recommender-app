@@ -1,0 +1,12 @@
+{
+  "userId": "user123",
+  "preferredGenres": [1, 5, 7, 8, 9, 13],
+  "excludedGenres": [6],
+  "preferredLanguages": ["Italian", "English", "Japanese"],
+  "contentMaturity": "adult",
+  "notifications": {
+    "enabled": true,
+    "frequency": "weekly"
+  },
+  "lastUpdated": "2025-03-25"
+}
