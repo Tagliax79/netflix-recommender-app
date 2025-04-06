@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: #141414;
+  color: white;
+}
+
+.container {
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.page-header {
+  margin-bottom: 40px;
+}
+
+.recommendation-card {
+  margin-bottom: 20px;
+  background-color: #181818;
+  border: none;
+  color: white;
+  transition: transform 0.3s;
+}
+
+.recommendation-card:hover {
+  transform: scale(1.05);
+}
+
+.recommendation-image {
+  height: 300px;
+  object-fit: cover;
+}
+
+.badge {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.preferences-section {
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.genre-badge {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.genre-badge.selected {
+  background-color: #e50914;
+}
