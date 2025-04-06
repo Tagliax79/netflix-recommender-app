@@ -1,0 +1,145 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "title": "Dragon Ball",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Adventure", "Fantasy"],
+      "viewedDate": "2023-10-15"
+    },
+    {
+      "id": 2,
+      "title": "Dragon Ball Z",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Adventure", "Fantasy"],
+      "viewedDate": "2023-10-20"
+    },
+    {
+      "id": 3,
+      "title": "Naruto",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Adventure", "Fantasy"],
+      "viewedDate": "2023-11-05"
+    },
+    {
+      "id": 4,
+      "title": "Naruto Shippuden",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Adventure", "Fantasy"],
+      "viewedDate": "2023-12-10"
+    },
+    {
+      "id": 5,
+      "title": "One Piece",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Adventure", "Comedy", "Fantasy"],
+      "viewedDate": "2024-01-15"
+    },
+    {
+      "id": 6,
+      "title": "Breaking Bad",
+      "type": "series",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "viewedDate": "2023-09-12"
+    },
+    {
+      "id": 7,
+      "title": "Ozark",
+      "type": "series",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "viewedDate": "2023-10-05"
+    },
+    {
+      "id": 8,
+      "title": "Stranger Things",
+      "type": "series",
+      "genres": ["Drama", "Fantasy", "Horror", "Sci-Fi"],
+      "viewedDate": "2023-11-20"
+    },
+    {
+      "id": 9,
+      "title": "Dark",
+      "type": "series",
+      "genres": ["Crime", "Drama", "Mystery", "Sci-Fi", "Thriller"],
+      "viewedDate": "2023-12-15"
+    },
+    {
+      "id": 10,
+      "title": "Game of Thrones",
+      "type": "series",
+      "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+      "viewedDate": "2023-08-10"
+    },
+    {
+      "id": 11,
+      "title": "The Witcher",
+      "type": "series",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "viewedDate": "2023-11-01"
+    },
+    {
+      "id": 12,
+      "title": "Vikings",
+      "type": "series",
+      "genres": ["Action", "Adventure", "Drama", "Historical"],
+      "viewedDate": "2024-01-05"
+    },
+    {
+      "id": 13,
+      "title": "La Casa de Papel",
+      "type": "series",
+      "genres": ["Action", "Crime", "Mystery", "Thriller"],
+      "viewedDate": "2023-09-20"
+    },
+    {
+      "id": 14,
+      "title": "Squid Game",
+      "type": "series",
+      "genres": ["Action", "Drama", "Mystery", "Thriller"],
+      "viewedDate": "2023-10-10"
+    },
+    {
+      "id": 15,
+      "title": "Black Mirror",
+      "type": "series",
+      "genres": ["Drama", "Sci-Fi", "Thriller"],
+      "viewedDate": "2023-12-05"
+    },
+    {
+      "id": 16,
+      "title": "Attack on Titan",
+      "type": "anime",
+      "genres": ["Anime", "Action", "Drama", "Horror"],
+      "viewedDate": "2024-01-20"
+    },
+    {
+      "id": 17,
+      "title": "Peaky Blinders",
+      "type": "series",
+      "genres": ["Crime", "Drama", "Historical"],
+      "viewedDate": "2023-11-15"
+    },
+    {
+      "id": 18,
+      "title": "Prison Break",
+      "type": "series",
+      "genres": ["Action", "Crime", "Drama", "Thriller"],
+      "viewedDate": "2023-08-25"
+    },
+    {
+      "id": 19,
+      "title": "Suits",
+      "type": "series",
+      "genres": ["Comedy", "Drama"],
+      "viewedDate": "2023-09-05"
+    },
+    {
+      "id": 20,
+      "title": "Sherlock",
+      "type": "series",
+      "genres": ["Crime", "Drama", "Mystery"],
+      "viewedDate": "2023-10-25"
+    }
+  ],
+  "lastUpdated": "2025-03-25"
+}
