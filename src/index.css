@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #141414;
+  color: #fff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.netflix-bg {
+  background-color: #141414;
+}
+
+.netflix-red {
+  color: #e50914;
+}
+
+.netflix-btn {
+  background-color: #e50914;
+  border-color: #e50914;
+  color: white;
+}
+
+.netflix-btn:hover {
+  background-color: #b20710;
+  border-color: #b20710;
+}
+
+.card {
+  transition: transform 0.3s;
+  margin-bottom: 20px;
+  background-color: #181818;
+  border: none;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  z-index: 1;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.9);
+}
