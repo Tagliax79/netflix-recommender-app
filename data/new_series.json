@@ -1,0 +1,105 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "title": "Demon Slayer: Stagione 4",
+      "image": "https://via.placeholder.com/300x450?text=Demon+Slayer+S4",
+      "description": "Tanjiro e i suoi amici continuano la lotta contro i demoni nell'era Taisho.",
+      "releaseDate": "2025-03-15",
+      "genres": ["Anime", "Action", "Fantasy"],
+      "creators": ["Koyoharu Gotouge"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 2,
+      "title": "Fargo: Stagione 5",
+      "image": "https://via.placeholder.com/300x450?text=Fargo+S5",
+      "description": "Una nuova storia ambientata nel Midwest americano con il tipico stile dei fratelli Coen.",
+      "releaseDate": "2025-02-18",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "creators": ["Noah Hawley"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 3,
+      "title": "Mind Hunter: Il Ritorno",
+      "image": "https://via.placeholder.com/300x450?text=Mind+Hunter+Return",
+      "description": "Holden Ford e Bill Tench tornano per una nuova serie di casi di serial killer.",
+      "releaseDate": "2025-04-01",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "creators": ["Joe Penhall", "David Fincher"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 4,
+      "title": "The Expanse: Origins",
+      "image": "https://via.placeholder.com/300x450?text=The+Expanse+Origins",
+      "description": "Prequel della famosa serie di fantascienza che esplora l'inizio della colonizzazione del sistema solare.",
+      "releaseDate": "2025-01-30",
+      "genres": ["Sci-Fi", "Drama", "Mystery"],
+      "creators": ["Mark Fergus", "Hawk Ostby"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 5,
+      "title": "Attack on Titan: Final Chapters",
+      "image": "https://via.placeholder.com/300x450?text=AoT+Final",
+      "description": "Gli ultimi episodi della serie che concludono la lotta dell'umanità contro i Titani.",
+      "releaseDate": "2025-02-10",
+      "genres": ["Anime", "Action", "Drama"],
+      "creators": ["Hajime Isayama"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 6,
+      "title": "House of Cards: Legacy",
+      "image": "https://via.placeholder.com/300x450?text=HoC+Legacy",
+      "description": "Un nuovo capitolo del dramma politico con nuovi personaggi che lottano per il potere a Washington.",
+      "releaseDate": "2025-03-04",
+      "genres": ["Drama", "Political"],
+      "creators": ["Beau Willimon"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 7,
+      "title": "The Last of Us: Stagione 2",
+      "image": "https://via.placeholder.com/300x450?text=Last+Of+Us+S2",
+      "description": "La seconda stagione dell'adattamento del popolare videogioco post-apocalittico.",
+      "releaseDate": "2025-04-15",
+      "genres": ["Drama", "Horror", "Post-Apocalyptic"],
+      "creators": ["Craig Mazin", "Neil Druckmann"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 8,
+      "title": "Vikings: The New World",
+      "image": "https://via.placeholder.com/300x450?text=Vikings+New+World",
+      "description": "Le avventure dei Vichinghi continuano nel Nuovo Mondo con nuove sfide e conflitti.",
+      "releaseDate": "2025-03-20",
+      "genres": ["Historical", "Drama", "Action"],
+      "creators": ["Michael Hirst"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 9,
+      "title": "One Piece: Live Action Season 2",
+      "image": "https://via.placeholder.com/300x450?text=One+Piece+LA+S2",
+      "description": "Il proseguimento dell'adattamento live-action della celebre serie manga/anime.",
+      "releaseDate": "2025-05-01",
+      "genres": ["Adventure", "Fantasy", "Action"],
+      "creators": ["Matt Owens", "Steven Maeda"],
+      "regions": ["Global"]
+    },
+    {
+      "id": 10,
+      "title": "Breaking Bad: Genesis",
+      "image": "https://via.placeholder.com/300x450?text=Breaking+Bad+Genesis",
+      "description": "Un prequel che esplora la giovinezza di Walter White e il suo percorso verso l'insegnamento.",
+      "releaseDate": "2025-04-20",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "creators": ["Vince Gilligan"],
+      "regions": ["Global"]
+    }
+  ],
+  "lastUpdated": "2025-03-25"
+}
